@@ -27,5 +27,5 @@ To run the backend, open a new terminal and run 'cd server/' to go to server dir
 nodemon index.js
 ```
 
-Open <strong>http://localhost:5173/</strong>strong> from your browser to run the webapp.</li>
+Open <strong>http://localhost:5173/</strong> from your browser to run the webapp.</li>
 
